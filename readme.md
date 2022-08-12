@@ -1,4 +1,4 @@
-This Project was made specifically for one of my Drone Projects to get distinguish the individuals whether they are wearing Mask or not.
+This Project was made specifically for one of my Drone Projects to distinguish the individuals whether they are wearing Mask or not.
 The model of this is trained by the images of the people wearing mask and those who are without mask.
 
 
